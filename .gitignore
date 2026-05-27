@@ -1,0 +1,19 @@
+# Large / Raw / Generated files
+sample_data/sap_raw/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+venv/
+.venv/
+node_modules/
+dist/
+build/
+.kaggle/
+kaggle.json
+access_token
+*.zip
+*.sqlite3
+media/
+staticfiles/

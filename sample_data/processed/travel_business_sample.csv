@@ -1,0 +1,101 @@
+expense_report_id,employee_id,travel_date,category,origin,destination,distance_km,cabin_class,hotel_nights,amount,currency,vendor
+TR-0,EMP-0,2019-09-26,Flight,Recife (PE),Florianopolis (SC),676.53,firstClass,,1434.38,BRL,FlyingDrops
+TR-0,EMP-0,2019-09-30,Flight,Florianopolis (SC),Recife (PE),676.53,firstClass,,1292.29,BRL,FlyingDrops
+TR-1,EMP-0,2019-10-03,Flight,Brasilia (DF),Florianopolis (SC),637.56,firstClass,,1487.52,BRL,CloudFy
+TR-1,EMP-0,2019-10-04,Flight,Florianopolis (SC),Brasilia (DF),637.56,firstClass,,1127.36,BRL,CloudFy
+TR-2,EMP-0,2019-10-10,Flight,Aracaju (SE),Salvador (BH),830.86,firstClass,,1684.05,BRL,CloudFy
+TR-2,EMP-0,2019-10-12,Flight,Salvador (BH),Aracaju (SE),830.86,firstClass,,1531.92,BRL,CloudFy
+TR-3,EMP-0,2019-10-17,Flight,Aracaju (SE),Campo Grande (MS),650.1,economic,,743.54,BRL,Rainbow
+TR-3,EMP-0,2019-10-20,Flight,Campo Grande (MS),Aracaju (SE),650.1,economic,,877.56,BRL,Rainbow
+TR-4,EMP-0,2019-10-24,Flight,Recife (PE),Florianopolis (SC),676.53,economic,,803.39,BRL,Rainbow
+TR-4,EMP-0,2019-10-26,Flight,Florianopolis (SC),Recife (PE),676.53,economic,,695.3,BRL,Rainbow
+TR-5,EMP-0,2019-10-31,Flight,Brasilia (DF),Aracaju (SE),425.98,firstClass,,1287.52,BRL,FlyingDrops
+TR-5,EMP-0,2019-11-01,Flight,Aracaju (SE),Brasilia (DF),425.98,firstClass,,898.04,BRL,FlyingDrops
+TR-6,EMP-0,2019-11-07,Flight,Recife (PE),Florianopolis (SC),676.53,premium,,1070.54,BRL,Rainbow
+TR-6,EMP-0,2019-11-10,Flight,Florianopolis (SC),Recife (PE),676.53,premium,,1013.4,BRL,Rainbow
+TR-7,EMP-0,2019-11-14,Flight,Aracaju (SE),Salvador (BH),830.86,economic,,964.83,BRL,CloudFy
+TR-7,EMP-0,2019-11-17,Flight,Salvador (BH),Aracaju (SE),830.86,economic,,811.73,BRL,CloudFy
+TR-8,EMP-0,2019-11-21,Flight,Recife (PE),Sao Paulo (SP),486.52,economic,,513.06,BRL,CloudFy
+TR-8,EMP-0,2019-11-24,Flight,Sao Paulo (SP),Recife (PE),486.52,economic,,829.91,BRL,CloudFy
+TR-9,EMP-0,2019-11-28,Flight,Brasilia (DF),Campo Grande (MS),277.7,economic,,583.6,BRL,CloudFy
+TR-9,EMP-0,2019-11-30,Flight,Campo Grande (MS),Brasilia (DF),277.7,economic,,506.56,BRL,CloudFy
+TR-10,EMP-0,2019-12-05,Flight,Brasilia (DF),Sao Paulo (SP),257.81,firstClass,,992.17,BRL,Rainbow
+TR-10,EMP-0,2019-12-06,Flight,Sao Paulo (SP),Brasilia (DF),257.81,firstClass,,824.31,BRL,Rainbow
+TR-11,EMP-0,2019-12-12,Flight,Brasilia (DF),Salvador (BH),676.56,premium,,1268.97,BRL,Rainbow
+TR-11,EMP-0,2019-12-16,Flight,Salvador (BH),Brasilia (DF),676.56,premium,,882.86,BRL,Rainbow
+TR-12,EMP-0,2019-12-19,Flight,Brasilia (DF),Aracaju (SE),425.98,premium,,965.62,BRL,Rainbow
+TR-12,EMP-0,2019-12-20,Flight,Aracaju (SE),Brasilia (DF),425.98,premium,,706.36,BRL,Rainbow
+TR-13,EMP-0,2019-12-26,Flight,Recife (PE),Florianopolis (SC),676.53,firstClass,,1434.38,BRL,FlyingDrops
+TR-13,EMP-0,2019-12-27,Flight,Florianopolis (SC),Recife (PE),676.53,firstClass,,1292.29,BRL,FlyingDrops
+TR-14,EMP-0,2020-01-02,Flight,Brasilia (DF),Sao Paulo (SP),257.81,firstClass,,893.65,BRL,CloudFy
+TR-14,EMP-0,2020-01-04,Flight,Sao Paulo (SP),Brasilia (DF),257.81,firstClass,,742.94,BRL,CloudFy
+TR-15,EMP-0,2020-01-09,Flight,Recife (PE),Natal (RN),222.67,premium,,474.6,BRL,CloudFy
+TR-15,EMP-0,2020-01-11,Flight,Natal (RN),Recife (PE),222.67,premium,,563.23,BRL,CloudFy
+TR-16,EMP-0,2020-01-16,Flight,Aracaju (SE),Campo Grande (MS),650.1,premium,,1021.53,BRL,CloudFy
+TR-16,EMP-0,2020-01-18,Flight,Campo Grande (MS),Aracaju (SE),650.1,premium,,1215.45,BRL,CloudFy
+TR-17,EMP-0,2020-01-23,Flight,Recife (PE),Natal (RN),222.67,economic,,301.51,BRL,CloudFy
+TR-17,EMP-0,2020-01-24,Flight,Natal (RN),Recife (PE),222.67,economic,,429.77,BRL,CloudFy
+TR-18,EMP-0,2020-01-30,Flight,Brasilia (DF),Natal (RN),550.69,economic,,791.66,BRL,CloudFy
+TR-18,EMP-0,2020-01-31,Flight,Natal (RN),Brasilia (DF),550.69,economic,,697.51,BRL,CloudFy
+TR-19,EMP-0,2020-02-06,Flight,Recife (PE),Salvador (BH),788.55,firstClass,,1596.61,BRL,FlyingDrops
+TR-19,EMP-0,2020-02-09,Flight,Salvador (BH),Recife (PE),788.55,firstClass,,1348.04,BRL,FlyingDrops
+TR-20,EMP-0,2020-02-13,Flight,Recife (PE),Campo Grande (MS),535.4,firstClass,,1069.12,BRL,Rainbow
+TR-20,EMP-0,2020-02-17,Flight,Campo Grande (MS),Recife (PE),535.4,firstClass,,1185.95,BRL,Rainbow
+TR-21,EMP-0,2020-02-20,Flight,Recife (PE),Salvador (BH),788.55,firstClass,,1596.61,BRL,FlyingDrops
+TR-21,EMP-0,2020-02-22,Flight,Salvador (BH),Recife (PE),788.55,firstClass,,1348.04,BRL,FlyingDrops
+TR-22,EMP-0,2020-02-27,Flight,Brasilia (DF),Aracaju (SE),425.98,firstClass,,1214.82,BRL,Rainbow
+TR-22,EMP-0,2020-02-29,Flight,Aracaju (SE),Brasilia (DF),425.98,firstClass,,959.29,BRL,Rainbow
+TR-23,EMP-0,2020-03-05,Flight,Brasilia (DF),Recife (PE),242.21,premium,,568.38,BRL,CloudFy
+TR-23,EMP-0,2020-03-08,Flight,Recife (PE),Brasilia (DF),242.21,premium,,573.61,BRL,CloudFy
+TR-24,EMP-0,2020-03-12,Flight,Brasilia (DF),Florianopolis (SC),637.56,firstClass,,1576.97,BRL,Rainbow
+TR-24,EMP-0,2020-03-16,Flight,Florianopolis (SC),Brasilia (DF),637.56,firstClass,,1087.18,BRL,Rainbow
+TR-0,EMP-0,2019-09-26,Hotel,Florianopolis (SC),Florianopolis (SC),,,4,1252.08,BRL,Hotel A
+TR-2,EMP-0,2019-10-10,Hotel,Salvador (BH),Salvador (BH),,,2,526.82,BRL,Hotel K
+TR-7,EMP-0,2019-11-14,Hotel,Salvador (BH),Salvador (BH),,,3,790.23,BRL,Hotel K
+TR-11,EMP-0,2019-12-12,Hotel,Salvador (BH),Salvador (BH),,,4,1053.64,BRL,Hotel K
+TR-13,EMP-0,2019-12-26,Hotel,Florianopolis (SC),Florianopolis (SC),,,1,313.02,BRL,Hotel A
+TR-15,EMP-0,2020-01-09,Hotel,Natal (RN),Natal (RN),,,2,485.76,BRL,Hotel BD
+TR-22,EMP-0,2020-02-27,Hotel,Aracaju (SE),Aracaju (SE),,,2,416.08,BRL,Hotel Z
+TR-29,EMP-0,2020-04-16,Hotel,Recife (PE),Recife (PE),,,4,1251.32,BRL,Hotel AU
+TR-32,EMP-0,2020-05-07,Hotel,Sao Paulo (SP),Sao Paulo (SP),,,2,278.2,BRL,Hotel AF
+TR-33,EMP-0,2020-05-14,Hotel,Salvador (BH),Salvador (BH),,,4,1053.64,BRL,Hotel K
+TR-34,EMP-0,2020-05-21,Hotel,Sao Paulo (SP),Sao Paulo (SP),,,3,417.3,BRL,Hotel AF
+TR-38,EMP-0,2020-06-18,Hotel,Natal (RN),Natal (RN),,,2,485.76,BRL,Hotel BD
+TR-39,EMP-0,2020-06-25,Hotel,Salvador (BH),Salvador (BH),,,1,263.41,BRL,Hotel K
+TR-42,EMP-0,2020-07-16,Hotel,Campo Grande (MS),Campo Grande (MS),,,3,181.17,BRL,Hotel BW
+TR-43,EMP-0,2020-07-23,Hotel,Salvador (BH),Salvador (BH),,,4,1053.64,BRL,Hotel K
+TR-45,EMP-0,2020-08-06,Hotel,Natal (RN),Natal (RN),,,1,242.88,BRL,Hotel BD
+TR-51,EMP-0,2020-09-17,Hotel,Salvador (BH),Salvador (BH),,,1,263.41,BRL,Hotel K
+TR-53,EMP-0,2020-10-01,Hotel,Campo Grande (MS),Campo Grande (MS),,,2,120.78,BRL,Hotel BW
+TR-54,EMP-0,2020-10-08,Hotel,Sao Paulo (SP),Sao Paulo (SP),,,3,417.3,BRL,Hotel AF
+TR-55,EMP-0,2020-10-15,Hotel,Florianopolis (SC),Florianopolis (SC),,,2,626.04,BRL,Hotel A
+TR-57,EMP-0,2020-10-29,Hotel,Aracaju (SE),Aracaju (SE),,,4,832.16,BRL,Hotel Z
+TR-60,EMP-0,2020-11-19,Hotel,Aracaju (SE),Aracaju (SE),,,4,832.16,BRL,Hotel Z
+TR-65,EMP-0,2020-12-24,Hotel,Rio de Janeiro (RJ),Rio de Janeiro (RJ),,,1,165.99,BRL,Hotel CB
+TR-73,EMP-0,2021-02-18,Hotel,Brasilia (DF),Brasilia (DF),,,4,990.48,BRL,Hotel BP
+TR-81,EMP-0,2021-04-15,Hotel,Natal (RN),Natal (RN),,,4,971.52,BRL,Hotel BD
+TR-86,EMP-0,2021-05-20,Hotel,Sao Paulo (SP),Sao Paulo (SP),,,3,417.3,BRL,Hotel AF
+TR-87,EMP-0,2021-05-27,Hotel,Recife (PE),Recife (PE),,,1,312.83,BRL,Hotel AU
+TR-90,EMP-1,2019-10-03,Hotel,Sao Paulo (SP),Sao Paulo (SP),,,1,139.1,BRL,Hotel AF
+TR-92,EMP-1,2019-10-17,Hotel,Brasilia (DF),Brasilia (DF),,,1,247.62,BRL,Hotel BP
+TR-100,EMP-2,2019-10-31,Hotel,Rio de Janeiro (RJ),Rio de Janeiro (RJ),,,4,663.96,BRL,Hotel CB
+TR-101,EMP-2,2019-11-07,Hotel,Campo Grande (MS),Campo Grande (MS),,,3,181.17,BRL,Hotel BW
+TR-105,EMP-2,2019-12-05,Hotel,Aracaju (SE),Aracaju (SE),,,4,832.16,BRL,Hotel Z
+TR-108,EMP-2,2019-12-26,Hotel,Recife (PE),Recife (PE),,,3,938.49,BRL,Hotel AU
+TR-109,EMP-2,2020-01-02,Hotel,Campo Grande (MS),Campo Grande (MS),,,2,120.78,BRL,Hotel BW
+TR-110,EMP-2,2020-01-09,Hotel,Salvador (BH),Salvador (BH),,,1,263.41,BRL,Hotel K
+TR-112,EMP-2,2020-01-23,Hotel,Sao Paulo (SP),Sao Paulo (SP),,,4,556.4,BRL,Hotel AF
+TR-116,EMP-2,2020-02-20,Hotel,Campo Grande (MS),Campo Grande (MS),,,4,241.56,BRL,Hotel BW
+TR-117,EMP-2,2020-02-27,Hotel,Recife (PE),Recife (PE),,,2,625.66,BRL,Hotel AU
+TR-119,EMP-2,2020-03-12,Hotel,Salvador (BH),Salvador (BH),,,2,526.82,BRL,Hotel K
+TR-122,EMP-2,2020-04-02,Hotel,Florianopolis (SC),Florianopolis (SC),,,4,1252.08,BRL,Hotel A
+TR-124,EMP-2,2020-04-16,Hotel,Aracaju (SE),Aracaju (SE),,,3,624.12,BRL,Hotel Z
+TR-125,EMP-2,2020-04-23,Hotel,Campo Grande (MS),Campo Grande (MS),,,2,120.78,BRL,Hotel BW
+TR-135,EMP-2,2020-07-02,Hotel,Rio de Janeiro (RJ),Rio de Janeiro (RJ),,,1,165.99,BRL,Hotel CB
+TR-137,EMP-2,2020-07-16,Hotel,Florianopolis (SC),Florianopolis (SC),,,3,939.06,BRL,Hotel A
+TR-150,EMP-2,2020-10-15,Hotel,Aracaju (SE),Aracaju (SE),,,2,416.08,BRL,Hotel Z
+TR-153,EMP-2,2020-11-05,Hotel,Campo Grande (MS),Campo Grande (MS),,,4,241.56,BRL,Hotel BW
+TR-156,EMP-2,2020-11-26,Hotel,Brasilia (DF),Brasilia (DF),,,2,495.24,BRL,Hotel BP
+TR-160,EMP-2,2020-12-24,Hotel,Campo Grande (MS),Campo Grande (MS),,,2,120.78,BRL,Hotel BW
+TR-165,EMP-2,2021-01-28,Hotel,Natal (RN),Natal (RN),,,3,728.64,BRL,Hotel BD
+TR-177,EMP-2,2021-04-22,Hotel,Aracaju (SE),Aracaju (SE),,,2,416.08,BRL,Hotel Z
