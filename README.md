@@ -1,4 +1,4 @@
-# Breathe ESG Tech Intern Assignment
+# Breathe ESG 
 
 This repository contains the project structure and implementation for the Breathe ESG tech intern assignment.
 
