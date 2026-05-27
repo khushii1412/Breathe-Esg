@@ -17,3 +17,4 @@ access_token
 *.sqlite3
 media/
 staticfiles/
+sample_data/sap_selected/ekpo.csv
